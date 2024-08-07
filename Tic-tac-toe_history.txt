@@ -1,0 +1,95 @@
+
+New Game Started at 2024-08-06 00:18:54.848608
+Initial Board:
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+Move 0: Player X to position (1, 1)
+|   |   |   |
+|   | X |   |
+|   |   |   |
+
+Move 1: Player O to position (0, 2)
+|   |   | O |
+|   | X |   |
+|   |   |   |
+
+Move 2: Player X to position (0, 0)
+| X |   | O |
+|   | X |   |
+|   |   |   |
+
+Move 3: Player O to position (2, 2)
+| X |   | O |
+|   | X |   |
+|   |   | O |
+
+Move 4: Player X to position (1, 2)
+| X |   | O |
+|   | X | X |
+|   |   | O |
+
+Move 5: Player O to position (2, 1)
+| X |   | O |
+|   | X | X |
+|   | O | O |
+
+Move 6: Player X to position (1, 0)
+| X |   | O |
+| X | X | X |
+|   | O | O |
+
+Winner: X
+
+New Game Started at 2024-08-06 00:19:38.577479
+Initial Board:
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+
+New Game Started at 2024-08-06 00:20:20.577446
+Initial Board:
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
+Move 0: Player X to position (1, 1)
+|   |   |   |
+|   | X |   |
+|   |   |   |
+
+Move 1: Player O to position (0, 2)
+|   |   | O |
+|   | X |   |
+|   |   |   |
+
+Move 2: Player X to position (1, 0)
+|   |   | O |
+| X | X |   |
+|   |   |   |
+
+Move 3: Player O to position (1, 2)
+|   |   | O |
+| X | X | O |
+|   |   |   |
+
+Move 4: Player X to position (2, 1)
+|   |   | O |
+| X | X | O |
+|   | X |   |
+
+Move 5: Player O to position (2, 2)
+|   |   | O |
+| X | X | O |
+|   | X | O |
+
+Winner: O
+
+New Game Started at 2024-08-06 00:20:24.657688
+Initial Board:
+|   |   |   |
+|   |   |   |
+|   |   |   |
+
